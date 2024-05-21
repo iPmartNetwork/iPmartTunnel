@@ -1,12 +1,13 @@
 #!/bin/bash
 #===============================================================================
 #          FILE:  iPmart.sh
-#          USAGE:  ./tunnel.sh
+#          USAGE:  ./iPmart.sh
 #
 #   DESCRIPTION:  This script sets up and manages the iPmart Tunnel.
 #                 iPmart Tunnel is a hypothetical tunneling tool for secure
 #                 and efficient data transfer across networks.
 #===============================================================================
+
 # Define color codes
 RED='\033[0;31m'
 GREEN='\033[0;32m'

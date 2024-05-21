@@ -1,7 +1,7 @@
 #!/bin/bash
 #===============================================================================
 #          FILE:  iPmart.sh
-#          USAGE:  ./iPmart.sh
+#          USAGE:  bash iPmart.sh
 #
 #   DESCRIPTION:  This script sets up and manages the iPmart Tunnel.
 #                 iPmart Tunnel is a hypothetical tunneling tool for secure

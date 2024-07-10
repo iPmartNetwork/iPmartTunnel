@@ -10,6 +10,6 @@
 
 
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/ipmartnetwork/iPmartTunnel/main/iPForward.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/ipmartnetwork/iPmartTunnel/main/iPmart.sh)
 
 ```

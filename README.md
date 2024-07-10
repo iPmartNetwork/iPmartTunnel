@@ -7,3 +7,9 @@
 <h1 align="center"/>iPmart Tunnel</h1>
 <h6 align="center">iPmart Network Tunnel<h6>
 </p>
+
+
+```
+bash <(curl -Ls https://raw.githubusercontent.com/ipmartnetwork/iPmartTunnel/main/iPForward.sh)
+
+```
